@@ -1,4 +1,4 @@
-criarCartão (
+    criarCartão (
     ' Matemática ',
     ' Qual é a fórmula para a área de um triângulo? ',
     'A = (base x altura) / 2')
@@ -14,7 +14,7 @@ criarCartão (
     ' Como se calcula a média aritmética de um conjunto de números? ',
     ' Média = (soma dos valores) / (número de valores) ')
     
-    criaCartão (
+   criaCartão (
     ' Física ',
     ' O que é a primeira lei de newton ',
     ' Um corpo em repouso permanece em repouso e um corpo em movimento continua em movimento, a menos que uma força externa atue sobre ele ')
@@ -97,4 +97,4 @@ criarCartão (
     criaCartãoo (
     'Geografia',
     'Como o relevo influencia a vegetação de uma região?',
-    'O relevo afeta a vegetação ao determinar a quantidade de luz solar e a umidade disponível. Regiões montanhosas podem ter climas diferentes em suas encostas, levando a variações na vegetação, como florestas densas em áreas úmidas e vegetação xerófila em áreas secas. ')
+    'O relevo afeta a vegetação ao determinar a quantidade de luz solar e a umidade disponível. Regiões montanhosas podem 
