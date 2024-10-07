@@ -8,10 +8,14 @@
 }
  body{
     background-color: #f6d2ff;
+    margin: 0;
  }
  footer{
    position: absolute;
    bottom: 0;
    background-color: hwb(303 0% 34%);
-   color:var(--branco)
+   color:var(--branco);
+   width: 100%;
+   text-align: center;
+
  }
