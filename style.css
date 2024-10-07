@@ -5,5 +5,7 @@
     --destaque:#FF00FF;
    --preto:#000000;
    --branco:#F0F8FF;
-
 }
+ body{
+    background-color: #BA55D3;
+ }
