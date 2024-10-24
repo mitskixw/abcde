@@ -32,7 +32,7 @@ height: 20rem;
 margin: 1rem;
 }
 .conteudo-cartao{
-background-color: var(--cor-frente);
+background-color: var(--fundo);
 height: 100%;
 text-align: center;
 }
