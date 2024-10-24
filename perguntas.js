@@ -1,4 +1,4 @@
-    criaCartão (
+    criaCartao (
     ' Matemática ',
     ' Qual é a fórmula para a área de um triângulo? ',
     'A = (base x altura) / 2')
