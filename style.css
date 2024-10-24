@@ -51,6 +51,12 @@ margin-top: 4rem;
 padding: 2rem;
 font-size: 1.4vw;
 }
+
+.cartao:hover .conteudo-cartao{
+transform: rotateX('180deg');
+
+}
+
 .pergunta-cartao, .resposta-cartao{
 position: absolute;
 height: 100%;
