@@ -97,4 +97,4 @@
     criaCartãoo (
     'Geografia',
     'Como o relevo influencia a vegetação de uma região?',
-    'O relevo afeta a vegetação ao determinar a quantidade de luz solar e a umidade disponível. Regiões montanhosas podem 
+    'O relevo afeta a vegetação ao determinar a quantidade de luz solar e a umidade disponível. Regiões montanhosas podem podem ter climas diferentes em suas encostas, levando a variações na vegetação, como florestas densas em áreas úmidas e vegetação xerófila em áreas secas ')
