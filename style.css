@@ -11,7 +11,7 @@
     margin: 0;
  }
  footer{
-   position: absolute;
+   position: fixed;
    bottom: 0;
    background-color: hwb(303 0% 34%);
    color:var(--branco);
