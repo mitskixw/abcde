@@ -36,3 +36,10 @@ background-color: var(--fundo);
 height: 100%;
 text-align: center;
 }
+
+.conteudo-cartao h3{
+position: absolute;
+border: 1px solid var(--destaque);
+color: var(--destaque);
+
+}
