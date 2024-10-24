@@ -5,7 +5,6 @@
     
     criaCartao (
     ' Matemática ',
-    
     ' O que é uma função do 2º grau? ',
     ' É uma função que pode ser expressa na forma f(x) = ax2 + bx + c, onde a, b e c são constantes e a ≠ 0 ')
     
