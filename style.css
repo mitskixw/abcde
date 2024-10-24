@@ -34,6 +34,7 @@ margin: 1rem;
 .conteudo-cartao{
 background-color: var(--fundo);
 height: 100%;
+color: var(--branco);
 text-align: center;
 }
 
