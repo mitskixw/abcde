@@ -94,7 +94,8 @@
     'O que foi a Guerra Fria e quais foram suas principais características?',
     'A Guerra Fria foi um período de tensão política e militar entre os Estados Unidos e a União Soviética, após a Segunda Guerra Mundial, caracterizada pela corrida armamentista, conflitos indiretos em diversas regiões do mundo e a divisão da Europa entre o bloco ocidental e o oriental.')
     
-    criaCartãoo (
-    'Geografia',
-    'Como o relevo influencia a vegetação de uma região?',
-    'O relevo afeta a vegetação ao determinar a quantidade de luz solar e a umidade disponível. Regiões montanhosas podem podem ter climas diferentes em suas encostas, levando a variações na vegetação, como florestas densas em áreas úmidas e vegetação xerófila em áreas secas ')
+    criacartão (
+        'Geografia',
+        'Como o relevo influencia a vegetação de uma região?',
+        'O relevo afeta a vegetação ao determinar a quantidade de luz solar e a umidade disponível. Regiões montanhosas podem ter climas diferentes em suas encostas, levando a variações na vegetação, como florestas densas em áreas úmidas e vegetação xerófila em áreas secas ')
+        
